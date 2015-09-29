@@ -1,0 +1,14 @@
+#-*- mode: org; -*-
+#+DATE: 2015-09-28 22:58:07.871029
+#+TITLE: 華嚴遊心法界記
+#+PROPERTY: CBETA_ID T45n1877
+#+PROPERTY: ID KR6e0093
+#+PROPERTY: SOURCE Taisho Tripitaka Vol. 45, No. 1877
+#+PROPERTY: VOL 45
+#+PROPERTY: BASEEDITION T
+#+PROPERTY: WITNESS CBETA
+
+<pb:KR6e0093_T_000-0641b>¶
+
+[[file:KR6e0093_001.txt::001-0641b3][剏鐫華嚴遊心法界記序]]
+[[file:KR6e0093_001.txt::0642a4][華嚴遊心法界記序]]
