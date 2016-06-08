@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:58:07.898526
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:41
 #+TITLE: 華嚴遊心法界記
 #+PROPERTY: CBETA_ID T45n1877
 #+PROPERTY: ID KR6e0093
@@ -12,7 +12,7 @@
 ¶
 No.1877¶
 
-剏鐫華嚴遊心法界記序
+* 剏鐫華嚴遊心法界記序
 :PROPERTIES:
 :head: 剏鐫華嚴遊心法界記序
 :END:
@@ -83,7 +83,7 @@ No.1877¶
 武陽沙門白蘋雅山謹題於京師之寓舍¶
 ¶
 
-華嚴遊心法界記序
+* 華嚴遊心法界記序
 :PROPERTIES:
 :head: 華嚴遊心法界記序
 :END:
